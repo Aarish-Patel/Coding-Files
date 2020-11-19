@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=vals
+comment1.target=void\ Vert_Histo(int[])
+comment2.params=vals
+comment2.target=void\ Vert_Histo(int[][])
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Encryption_d
+comment1.params=
+comment1.target=Encryption_d()
+comment2.params=input
+comment2.target=java.lang.String[]\ Encryption_prog(java.lang.String)
+numComments=3

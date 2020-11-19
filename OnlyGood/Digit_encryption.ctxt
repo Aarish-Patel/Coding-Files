@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Digit_encryption
+comment1.params=
+comment1.target=Digit_encryption()
+comment2.params=dec
+comment2.target=java.lang.String\ Digit_encryption(int)
+numComments=3

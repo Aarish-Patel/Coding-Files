@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dev
+comment1.params=
+comment1.target=Dev()
+comment2.params=skey\ rkey
+comment2.target=int[]\ UKey(int,\ int)
+comment3.params=
+comment3.target=int[]\ keygen()
+numComments=4

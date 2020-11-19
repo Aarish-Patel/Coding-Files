@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=binary_to_int
+comment1.params=
+comment1.target=binary_to_int()
+comment2.params=str
+comment2.target=int\ bin_to_int(java.lang.String)
+numComments=3

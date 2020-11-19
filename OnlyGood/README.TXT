@@ -1,0 +1,1 @@
+This Project is a compilation of my best projects in 10th standard.

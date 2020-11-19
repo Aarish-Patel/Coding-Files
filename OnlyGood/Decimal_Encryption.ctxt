@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Decimal_Encryption
+comment1.params=
+comment1.target=Decimal_Encryption()
+comment2.params=input\ rkey\ auto
+comment2.target=void\ Decimal_main(java.lang.String,\ int,\ char)
+numComments=3

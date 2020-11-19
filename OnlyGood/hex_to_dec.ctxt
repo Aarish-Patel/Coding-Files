@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=hex_to_dec
+comment1.params=
+comment1.target=hex_to_dec()
+comment2.params=hex
+comment2.target=int\ hex_to_dec(java.lang.String)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Binary_Encryption
+comment1.params=
+comment1.target=Binary_Encryption()
+comment2.params=input\ rkey\ auto
+comment2.target=void\ binary_main(java.lang.String,\ int,\ char)
+numComments=3
